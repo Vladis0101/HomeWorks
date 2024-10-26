@@ -27,7 +27,9 @@ print('and', some_dzen_and)
 print('or', some_dzen_or)
 some_dzen_dict = {"is":some_dzen_is, "and":some_dzen_and, "or":some_dzen_or or None}
 print(some_dzen_dict)
-print(some_dzen.replace( "is", "is not"))
+some_dzen_isnot = some_dzen.replace( "is", "is not")
+print(some_dzen_isnot)
+
 
 
 
