@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Slava",
+        "age": 27,
+        "interests": [
+            "Python",
+            "JS",
+            "teaching"
+        ],
+        "salary": 3000.0
+    },
+    {
+        "id": 2,
+        "name": "Misha",
+        "age": 23,
+        "interests": null,
+        "salary": 4000.0
+    },
+    {
+        "id": 3,
+        "name": "Masha",
+        "age": 25,
+        "interests": [
+            "C#",
+            "hiking"
+        ],
+        "salary": 1500.0
+    },
+    {
+        "id": 4,
+        "name": "Vlad",
+        "age": 21,
+        "interests": [
+            "Python",
+            "gaming"
+        ],
+        "salary": 2000.0
+    },
+    {
+        "id": 5,
+        "name": "Margo",
+        "age": 20,
+        "interests": null,
+        "salary": 4100.0
+    },
+    {
+        "id": 6,
+        "name": "Vova",
+        "age": 30,
+        "interests": [
+            "streams"
+        ],
+        "salary": 6000.0
+    }
+]
